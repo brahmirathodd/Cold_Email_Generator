@@ -28,20 +28,7 @@ The Cold Email Generator is an end-to-end solution designed to help business dev
 - Output: The final email is displayed in the Streamlit app, ready to be sent to the client.
 
 ### Project Structure
-cold-email-generator/
-│
-├── app/
-│   ├── main.py           # Streamlit app code
-│   ├── chains.py         # Handles prompt chains for Llama 3.1
-│   ├── portfolio.py      # Handles ChromaDB queries
-│   └── utils.py          # Utility functions for data cleaning
-│
-├── resources/
-│   ├── my_portfolio.csv  # Sample portfolio data
-│
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── .env                  # API keys (not shared publicly)
+<img width="705" alt="Screenshot 2024-10-10 at 15 34 27" src="https://github.com/user-attachments/assets/72b84c9d-5cbe-4852-a32a-87a722709465">
 
 ### Usage Example
 - Step 1: Provide a job posting URL.
